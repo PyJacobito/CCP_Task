@@ -1,2 +1,2 @@
 # CCP_Task
-CCP_data_analysis_task
+Recrutation task with the data analysis and visualization using pythan and jupter notebook
